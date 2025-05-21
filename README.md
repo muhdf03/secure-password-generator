@@ -12,7 +12,7 @@ Features:
 - CLI input prompts for customization
 
 Example Usage:
-- secure_password_generator.py
+- python secure_password_generator.py
 
 Sample output:
 === Secure Password Generator ===
